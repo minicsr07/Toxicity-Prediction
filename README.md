@@ -122,7 +122,7 @@ We trained **separate models for each target**:
 
 ##  How to Run
 
-pip install pandas numpy scikit-learn xgboost rdkit matplotlib seaborn
+pip install -r requirements.txt
 
 notebook Tox_Predict.ipynb
 
