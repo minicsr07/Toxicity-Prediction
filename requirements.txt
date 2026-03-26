@@ -6,3 +6,4 @@ rdkit
 matplotlib
 seaborn
 jupyter
+streamlit
